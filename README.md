@@ -13,3 +13,6 @@ Container - completely isolated environment.
 Installation:
 
 https://docs.docker.com/engine/install/ubuntu/
+
+Useful: 
+https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers
