@@ -8,3 +8,8 @@ Docker — это платформа, которая предназначена 
 
 
 Container - completely isolated environment.
+
+
+Installation:
+
+https://docs.docker.com/engine/install/ubuntu/
