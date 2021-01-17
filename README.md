@@ -24,3 +24,15 @@ An instance of an image is called a container. You have an image, which is a set
 You can see all your images with docker images whereas you can see your running containers with docker ps (and you can see all containers with docker ps -a).
 
 So a running instance of an image is a container.
+
+# Docker Commands
+
+`docker run` - run container from an image
+`docker ps` - list running containers
+`docker ps -a` - list all containers
+`docker stop <container_id/container_name>` - stop container
+`docker rm` - remove container
+`docker rmi` - remove image
+`docker pull` - pull image (without starting)
+
+ 
