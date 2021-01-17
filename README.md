@@ -41,5 +41,7 @@ So a running instance of an image is a container.
 
 `docker pull` - pull image (without starting)
 
+`docker run -i` - interactive mode
+
 
  
