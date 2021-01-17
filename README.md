@@ -28,11 +28,18 @@ So a running instance of an image is a container.
 # Docker Commands
 
 `docker run` - run container from an image
+
 `docker ps` - list running containers
+
 `docker ps -a` - list all containers
+
 `docker stop <container_id/container_name>` - stop container
+
 `docker rm` - remove container
+
 `docker rmi` - remove image
+
 `docker pull` - pull image (without starting)
+
 
  
