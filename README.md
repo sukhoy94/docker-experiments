@@ -52,10 +52,15 @@ docker run -dit --name my-running-app -p 8080:80 my-apache2 // localhost:8080 is
 
 # useful commands 
 
+
+Stop and remove containers, networks
+https://docs.docker.com/engine/reference/commandline/compose_down/
 ```
 docker-compose down --volumes --remove-orphans
 ```
 
+Create and start containers
+https://docs.docker.com/engine/reference/commandline/compose_up/
 ```
 docker-compose up -d --build
 ```
