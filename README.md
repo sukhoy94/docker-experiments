@@ -48,7 +48,10 @@ So a running instance of an image is a container.
 
 docker run -dit --name my-running-app -p 8080:80 my-apache2 // localhost:8080 is where application will be available
 
+# DB connection locally
 
+host: localhost
+port: from docker-compose
 
 # useful commands 
 
