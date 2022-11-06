@@ -67,3 +67,8 @@ https://docs.docker.com/engine/reference/commandline/compose_up/
 ```
 docker-compose up -d --build
 ```
+
+Stop docker container
+```
+docker stop [OPTIONS] CONTAINER [CONTAINER...]
+```
